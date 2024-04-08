@@ -1,1 +1,2 @@
-hey
+This a very simple Crm Application that uses Go Fiber, Sqlite3 and Gorm Libraries.
+Tried with Postman all operations work fine.
